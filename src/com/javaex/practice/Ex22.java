@@ -25,6 +25,6 @@ public class Ex22 {
                 firstNum = true;
             }
         }
-        money.close();
+        money.close(); 
     }
 }
